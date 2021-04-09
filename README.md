@@ -1,4 +1,5 @@
-# Introducing **L3n**; The Future of Software Delivery
+# L3n
+Introducing **l3n**, the Future of Software Delivery
 
 ## Manifesto
 We believe that quality assurance leads to bugs and stifles output. By simply advocating all functionality as feature, we can exponentially increase productivity and potential quality.
@@ -52,7 +53,7 @@ its behaviour accordingly.
 
 ## Branding:
 **L3n** is an abbreviation of **Leeen**.
- Using a TLA (link) embodies the spirit of **l3n** and has multiple benefits:
+ Using a [TLA](https://en.wikipedia.org/wiki/Three-letter_acronym) embodies the spirit of **l3n** and has multiple benefits:
 * Best practice
 * Credibility
 * 40% efficiency
