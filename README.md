@@ -1,3 +1,6 @@
+THIS IS A JOKE! PLEASE DO NOT TAKE THIS SERIOUSLY!
+
+
 # L3n
 Introducing **l3n**, the Future of Software Delivery
 
